@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
 $usuario = "root";
-$senha = "root"; // padrão do MAMP
-$banco = "escola";
+$senha = "root"; 
+$banco = "crud_trabalho";
 
 $conn = new mysqli($host, $usuario, $senha, $banco);
 
