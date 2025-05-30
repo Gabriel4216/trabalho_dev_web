@@ -9,6 +9,7 @@ $result = $conn->query($sql);
 <html>
 <head>
     <title>Lista de Estudantes</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <h2>Estudantes Cadastrados</h2>
